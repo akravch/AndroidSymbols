@@ -8,5 +8,6 @@
     <ApplicationId>com.companyname.AndroidSymbols</ApplicationId>
     <ApplicationVersion>1</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <_AndroidAotStripLibraries>false</_AndroidAotStripLibraries>
   </PropertyGroup>
 </Project>
